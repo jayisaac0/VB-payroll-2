@@ -1,0 +1,11 @@
+P:\VB\Tom's'PayRoll\Tom's'PayRoll\bin\Debug\Tom's'PayRoll.exe.config
+P:\VB\Tom's'PayRoll\Tom's'PayRoll\bin\Debug\Tom's'PayRoll.exe
+P:\VB\Tom's'PayRoll\Tom's'PayRoll\bin\Debug\Tom's'PayRoll.pdb
+P:\VB\Tom's'PayRoll\Tom's'PayRoll\bin\Debug\Tom's'PayRoll.xml
+P:\VB\Tom's'PayRoll\Tom's'PayRoll\obj\Debug\Tom's'PayRoll.vbprojResolveAssemblyReference.cache
+P:\VB\Tom's'PayRoll\Tom's'PayRoll\obj\Debug\Tom_s_PayRoll.Form1.resources
+P:\VB\Tom's'PayRoll\Tom's'PayRoll\obj\Debug\Tom_s_PayRoll.Resources.resources
+P:\VB\Tom's'PayRoll\Tom's'PayRoll\obj\Debug\Tom's'PayRoll.vbproj.GenerateResource.Cache
+P:\VB\Tom's'PayRoll\Tom's'PayRoll\obj\Debug\Tom's'PayRoll.exe
+P:\VB\Tom's'PayRoll\Tom's'PayRoll\obj\Debug\Tom's'PayRoll.xml
+P:\VB\Tom's'PayRoll\Tom's'PayRoll\obj\Debug\Tom's'PayRoll.pdb
